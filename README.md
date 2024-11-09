@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Ethan Deng
-ezdeng@ucsd.edu
+Ethan Deng and Jason Gu
